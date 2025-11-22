@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #333;
+    background-color: #f5efef;
     margin: 0;
     overflow: hidden;
     /* Evita barras de desplazamiento */
@@ -16,7 +16,7 @@ body {
     width: 900px;
     height: 200px;
     border: 5px solid #fff;
-    background-color: #0056B3 ;
+    background-color: #0e6dd3;
     position: relative;
     /* Para posicionar elementos internos */
     overflow: hidden;
@@ -123,3 +123,4 @@ body {
     font-size: 1em;
     z-index: 100;
 }
+
